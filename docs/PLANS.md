@@ -8,4 +8,4 @@
 
 | Spec | Plan | Phase | Owner | Last commit | Status | Resume hint |
 |------|------|-------|-------|-------------|--------|-------------|
-| — | — | — | — | — | — | Run `doc-init` then `dev-plan` to start tracked plan work |
+| [note 編集OS](specs/2026-07-30-note-editorial-os-design.md) | [2026-07-30-note-editorial-os.md](plans/2026-07-30-note-editorial-os.md) | phase-2 | cursor | — | active | 下書き `drafts/2026-07-30-plan-vs-impulse.md` の本人確認 → ready → note 投稿 |
