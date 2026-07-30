@@ -8,4 +8,4 @@
 
 | Spec | Plan | Phase | Owner | Last commit | Status | Resume hint |
 |------|------|-------|-------|-------------|--------|-------------|
-| [note 編集OS](specs/2026-07-30-note-editorial-os-design.md) | [2026-07-30-note-editorial-os.md](plans/2026-07-30-note-editorial-os.md) | phase-2 | cursor | — | active | 下書き `drafts/2026-07-30-plan-vs-impulse.md` の本人確認 → ready → note 投稿 |
+| [note 編集OS](specs/2026-07-30-note-editorial-os-design.md) | [2026-07-30-note-editorial-os.md](plans/2026-07-30-note-editorial-os.md) | phase-2 | cursor | — | done | 第1本公開済 https://note.com/bua_thai/n/n7c8c992ebf4c 。次ネタは idea-bank |
