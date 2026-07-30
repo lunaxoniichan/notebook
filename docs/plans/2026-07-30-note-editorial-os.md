@@ -29,7 +29,9 @@ updated: 2026-07-30
 ### phase-2 — first draft
 
 - [x] ネタ帳＋ネタ会議で主柱を1本選定
-- [x] `drafts/2026-07-30-plan-vs-impulse.md` を作成（status: revise）
+- [x] `drafts/2026-07-30-plan-vs-impulse.md` を作成 → 推敲 → 本人事実確認 → ready → **published**
+  - URL: https://note.com/bua_thai/n/n7c8c992ebf4c
+  - 記録: `published/2026-07-30-active-swept-along.md`
 
 ## Acceptance
 

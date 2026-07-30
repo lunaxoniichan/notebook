@@ -2,7 +2,7 @@
 
 | 週 | 予定本 | 柱 | 下書き | 状態 | メモ |
 |----|--------|-----|--------|------|------|
-| 2026-07-28 週 | 1 | gap / roles | `drafts/2026-07-30-plan-vs-impulse.md` | ready | タイトル確定。note手動投稿待ち |
+| 2026-07-28 週 | 1 | gap / roles | `drafts/2026-07-30-plan-vs-impulse.md` | published | https://note.com/bua_thai/n/n7c8c992ebf4c |
 
 ## スキップ記録
 
