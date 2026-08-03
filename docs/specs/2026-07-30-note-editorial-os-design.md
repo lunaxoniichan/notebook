@@ -9,7 +9,7 @@ related: []
 updated: 2026-07-30
 ---
 
-> Plan: _(fill after `dev-plan` creates `docs/plans/…`)_
+> Plan: [`docs/plans/2026-07-30-note-editorial-os.md`](../plans/2026-07-30-note-editorial-os.md)
 
 # note 編集OS（編集長兼ライター）— Design
 
